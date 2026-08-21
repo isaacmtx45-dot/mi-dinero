@@ -137,8 +137,8 @@ var ie=Number.MAX_SAFE_INTEGER;function b(e){let a=typeof e=="number"?e:Number(e
         <strong>Lo que se descuenta de cada pago antes de que quede nada para tus metas.</strong>
         Por ejemplo: un diezmo, lo que le das a alguien de la familia, el internet, un recibo.
         <br /><span class="rango">Cada una puede ser un <strong>% de lo que entra</strong> o un
-        <strong>monto fijo</strong>, y de todos los pagos, solo del primero, o cuando t\xFA la
-        marques.</span>
+        <strong>monto fijo</strong> \u2014 y sale de todos los pagos, solo del primero, o cuando t\xFA
+        la marques.</span>
         <p><button data-accion="nueva-oblig">+ Agregar la primera</button></p>
       </div>
     </section>`:`
